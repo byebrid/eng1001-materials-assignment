@@ -1,0 +1,17 @@
+﻿Material,"Yield stress [MPa]","Modulus [GPa]","Elongation [%]","Density [tonne/m^3]","Price [$/kg]","Embodied energy [MJ/kg]"
+Softwood (clear wood),40,9.35,2.21,0.52,1.07,9.235
+CFRP (Carbon fibre reinforced polymer),800,109.5,0.335,1.55,42.3,476.5
+Wrought magnesium alloys,262.5,44.5,10.75,1.725,3.51,309
+Age-hardening wrought aluminium alloys,352.5,74,10.5,2.7,2.38,208.5
+Polycarbonate,64.5,2.22,110,1.175,5.16,108.5
+High carbon steel,780,207.5,18.5,7.85,0.59,26.65
+Concrete,2,20,0,2.45,0.0535,1.15
+Silicon carbide,505,430,0,3.155,18.85,73.9
+GFRP (fibreglass),151,21.5,0.9,1.86,31.4,160
+Hardwood (clear wood),47.5,22.9,1.9,0.94,0.74,10.36
+Brick,9.5,22.5,0,1.85,1.22,3.6
+Cast iron (ductile),465,172.5,10.5,7.15,0.61,20
+Low carbon (mild) steel,322.5,207.5,36.5,7.85,0.59,26.35
+Polyamides (e.g. nylon),72.4,2.91,65,1.13,4.58,121
+Titanium alloys,975,115,7.5,4.6,25,685.5
+Tin,11,43,65,7.26,25.35,227
